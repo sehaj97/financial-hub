@@ -1,6 +1,6 @@
 # Canadian Financial Tools Hub
 
-An open-source collection of financial calculators and planning tools specifically designed for Canadians.
+An open-source collection of financial calculators and planning tools specifically designed for Canadians .
 
 ![Canadian Financial Tools Hub](https://github.com/yourusername/canadian-financial-tools-hub/raw/main/public/screenshot.png)
 
